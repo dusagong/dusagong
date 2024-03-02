@@ -4,14 +4,15 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdusagong&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/dusagong)
 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:yoonseungjae123@gmail.com)
+
+[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://ilovecomputerscience.tistory.com/)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dusagong" alt="dusagong" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cccysj2382">
 
-
-- 📫 How to reach me **yoonseungjae123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
