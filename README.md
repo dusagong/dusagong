@@ -6,9 +6,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dusagong" alt="dusagong" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cccysj2382)](https://solved.ac/cccysj2382/)
+<a [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cccysj2382)](https://solved.ac/cccysj2382/) /></a>
 
-출처: https://soo-vely-dev.tistory.com/159 [soo_vely의 개발로그:티스토리]
 
 - 📫 How to reach me **yoonseungjae123@gmail.com**
 
