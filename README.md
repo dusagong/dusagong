@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dusagong" alt="dusagong" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<a [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cccysj2382)](https://solved.ac/cccysj2382/) /></a>
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cccysj2382">
 
 
 - 📫 How to reach me **yoonseungjae123@gmail.com**
