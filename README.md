@@ -93,14 +93,6 @@ hobbies:
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dusagong&theme=onestar&no-frame=true&column=4&row=2&margin-w=15&margin-h=15" />
-</div>
-
----
-
 ### 🎯 Baekjoon Stats
 
 <div align="center">
