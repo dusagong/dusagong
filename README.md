@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 <!-- 웨이브 헤더 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Seungjae%20Yoon&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Flutter%20Developer%20from%20South%20Korea&descAlignY=52&descSize=18" width="100%"/>
@@ -20,10 +20,9 @@
 
 ---
 
-<!-- 소개 섹션 -->
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dusagong&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117" width="280"/>
-
 ### 🙋‍♂️ About Me
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dusagong&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117" width="280"/>
 
 ```yaml
 name: Seungjae Yoon
@@ -53,12 +52,10 @@ hobbies:
 
 <div align="center">
 
-<!-- 애니메이션 기술 스택 아이콘 -->
 <img src="https://skillicons.dev/icons?i=flutter,dart,python,go,js,vue,firebase,git&theme=dark&perline=8" />
 
 <br/><br/>
 
-<!-- 추가 기술들 -->
 <img src="https://skillicons.dev/icons?i=linux,docker,nodejs,cpp,vscode,github&theme=dark&perline=6" />
 
 </div>
@@ -99,7 +96,7 @@ hobbies:
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dusagong&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dusagong&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </div>
 
 ---
@@ -115,25 +112,28 @@ hobbies:
 ### 📫 Connect with Me
 
 <div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yoonseungjae123@gmail.com)
-[![Blog](https://img.shields.io/badge/Tech%20Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://ilovecomputerscience.tistory.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethan-yoon-b67b26263/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/clo__zh)
-
+  <a href="mailto:yoonseungjae123@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://ilovecomputerscience.tistory.com/">
+    <img src="https://img.shields.io/badge/Tech%20Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ethan-yoon-b67b26263/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/clo__zh">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </div>
 
 ---
 
 <div align="center">
 
-<!-- 랜덤 개발자 명언 -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 <br/><br/>
 
-<!-- 웨이브 푸터 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
-]]>
